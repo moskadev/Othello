@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"othello"},{"l":"othello.caracteristiques"},{"l":"othello.interfacejeu.console"},{"l":"othello.joueur"},{"l":"othello.outils"}];updateSearchResults();
